@@ -1,0 +1,38 @@
+<Stmt>
+<Acct>
+<Id>
+<IBAN>RO49AAAA1B31007593840000</IBAN>
+</Id>
+</Acct>
+<Ntry>
+<Amt Ccy="RON">1000.00</Amt>
+<CdtDbtInd>DBIT</CdtDbtInd>
+<BookgDt><Dt>2024-07-03</Dt></BookgDt>
+<ValDt><Dt>2024-07-03</Dt></ValDt>
+<NtryDtls>
+<TxDtls>
+<Refs>
+<InstrId>TRXREF12345</InstrId>
+<EndToEndId>INV123456</EndToEndId>
+</Refs>
+<AmtDtls>
+<TxAmt>
+<Amt Ccy="RON">1000.00</Amt>
+</TxAmt>
+</AmtDtls>
+<RltdPties>
+<Dbtr>
+<Nm>SC COMPANY SRL</Nm>
+</Dbtr>
+</RltdPties>
+<RmtInf>
+<Strd>
+<CdtrRefInf>
+<Ref>INV123456</Ref>
+</CdtrRefInf>
+</Strd>
+</RmtInf>
+</TxDtls>
+</NtryDtls>
+</Ntry>
+</Stmt>
